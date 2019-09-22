@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaeraipaig.arccos-1.net/sitemap.xml
